@@ -1,0 +1,255 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-10-10 03:30+0400\n"
+"PO-Revision-Date: 2018-10-10 03:44+0400\n"
+"Last-Translator: Абрамович Артем | artabr.ru <artikus.sol@gmail.com>\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;"
+"esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../art-decoration-shortcode.php:206
+#, php-format
+msgid ""
+"%s requires PHP 5.6 or higher and your current PHP version is %s. Please "
+"(contact your host to) update your PHP version."
+msgstr ""
+"%s требует PHP 5.6 или выше и ваша текущая версия PHP %s. Пожалуйста "
+"обновите версию PHP. "
+
+#: ../includes/translations.php:12
+msgid "Decorations Shortcodes"
+msgstr "Шорткоды для оформления текста"
+
+#: ../includes/translations.php:13
+msgid "Infoboxes"
+msgstr "Инфоблоки"
+
+#: ../includes/translations.php:14
+msgid "Warning"
+msgstr "Внимание"
+
+#: ../includes/translations.php:15
+msgid "Warning Window"
+msgstr "Внимание"
+
+#: ../includes/translations.php:16
+msgid "Advice"
+msgstr "Совет"
+
+#: ../includes/translations.php:17
+msgid "Advice Window"
+msgstr "Совет"
+
+#: ../includes/translations.php:18
+msgid "Note"
+msgstr "На заметку"
+
+#: ../includes/translations.php:19
+msgid "Note Window"
+msgstr "Заметка"
+
+#: ../includes/translations.php:20
+msgid "Info"
+msgstr "Для информации"
+
+#: ../includes/translations.php:21
+msgid "Info Window"
+msgstr "Информация"
+
+#: ../includes/translations.php:22
+msgid "Custom box"
+msgstr "Произвольный блок"
+
+#: ../includes/translations.php:23
+msgid "Custom box Window"
+msgstr "Произвольный блок"
+
+#: ../includes/translations.php:24
+msgid "Add Text"
+msgstr "Напишите текст"
+
+#: ../includes/translations.php:25
+msgid "Add class"
+msgstr "Добавить класс"
+
+#: ../includes/translations.php:26
+msgid "Title"
+msgstr "Название"
+
+#: ../includes/translations.php:27
+msgid "Buttons"
+msgstr "Кнопки"
+
+#: ../includes/translations.php:28
+msgid "Buttons Window"
+msgstr "Кнопки"
+
+#: ../includes/translations.php:29
+msgid "The inscription on the button"
+msgstr "Надпись на кнопке"
+
+#: ../includes/translations.php:30
+msgid "Add a link"
+msgstr "Ссылка"
+
+#: ../includes/translations.php:31
+msgid "Add hover effect"
+msgstr "Эффект"
+
+#: ../includes/translations.php:32
+msgid "Add a icon"
+msgstr "Иконка"
+
+#: ../includes/translations.php:33
+msgid "Open in a new window?"
+msgstr "Открывать в новом окне?"
+
+#: ../includes/translations.php:34
+msgid "Columns"
+msgstr "Колонки "
+
+#: ../includes/translations.php:35
+msgid "Column "
+msgstr "Колонка "
+
+#: ../includes/translations.php:36
+msgid "Here some text"
+msgstr "Здесь будет текст"
+
+#: ../includes/translations.php:37
+msgid "Row"
+msgstr "Строка"
+
+#: ../includes/translations.php:38
+msgid "Part"
+msgstr "Дольки"
+
+#: ../includes/translations.php:39
+msgid "Part free"
+msgstr "Свободная долька"
+
+#: ../includes/translations.php:40
+msgid "Dividers"
+msgstr "Разделители"
+
+#: ../includes/translations.php:41
+msgid "Simple Divider"
+msgstr "Простой"
+
+#: ../includes/translations.php:42
+msgid "Gradient Divider"
+msgstr "Градиент"
+
+#: ../includes/translations.php:43
+msgid "Divider points"
+msgstr "Точки"
+
+#: ../includes/translations.php:44
+msgid "Divider dash"
+msgstr "Чёрточки"
+
+#: ../includes/translations.php:45
+msgid "Divider zigzag"
+msgstr "Зигзаг"
+
+#: ../includes/translations.php:46
+msgid "Spacer"
+msgstr "Пробел"
+
+#: ../includes/translations.php:47
+msgid "Spacer window"
+msgstr "Пробел"
+
+#: ../includes/translations.php:48
+msgid "The size of the gap"
+msgstr "Размер пробела"
+
+#: ../includes/translations.php:49
+msgid "Quotes"
+msgstr "Цитаты"
+
+#: ../includes/translations.php:50
+msgid "Left Quote"
+msgstr "Левая цитата"
+
+#: ../includes/translations.php:51
+msgid "Left Quote Window"
+msgstr "Левая цитата"
+
+#: ../includes/translations.php:52
+msgid "Right Quote"
+msgstr "Правая цитата"
+
+#: ../includes/translations.php:53
+msgid "Right Quote Window"
+msgstr "Правая цитата"
+
+#: ../includes/translations.php:54
+msgid "Center Quote"
+msgstr "Цитата по центру"
+
+#: ../includes/translations.php:55
+msgid "Center Quote Window"
+msgstr "Цитата по центру"
+
+#: ../includes/translations.php:56
+msgid "Center Quote Cite"
+msgstr "Автор цитаты"
+
+#: ../includes/translations.php:57
+msgid "Dropcaps"
+msgstr "Буквица"
+
+#: ../includes/translations.php:58
+msgid "Color Box"
+msgstr "Цветной блок"
+
+#: ../includes/translations.php:59
+msgid "Color Box Window"
+msgstr "Цветной блок"
+
+#: ../includes/translations.php:60
+msgid "Background color"
+msgstr "Фоновый цвет "
+
+#: ../includes/translations.php:61
+msgid "Text color"
+msgstr "Цвет текста"
+
+#: ../includes/translations.php:62
+msgid "Border color"
+msgstr "Цвет границ"
+
+#: ../includes/translations.php:63
+msgid "Blur Spoiler"
+msgstr "Размытый спойлер "
+
+#: ../includes/translations.php:64
+msgid "Blur Spoiler Window"
+msgstr "Размытый спойлер "
+
+#: ../includes/translations.php:65
+msgid "If required, select the color of the text"
+msgstr "Если требуется, укажите цвет текста"
+
+#~ msgid "This plugin requires %s version %s or greater."
+#~ msgstr "Для этого плагина нужна версия %s %s или выше."
+
+#~ msgid ""
+#~ "<div class=\"updated notice is-dismissible\"><p>Thank you for using the "
+#~ "<strong>%s</strong> plugin.</p></div>"
+#~ msgstr ""
+#~ "<div class=\"updated notice is-dismissible\"><p>Спасибо, что используете "
+#~ "плагин <strong>%s</strong>!</p></div>"

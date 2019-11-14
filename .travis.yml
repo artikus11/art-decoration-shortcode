@@ -1,0 +1,33 @@
+sudo: false
+language: php
+php:
+- '5.6'
+- '7.0'
+- '7.1'
+- '7.2'
+notifications:
+  email:
+    on_success: never
+    on_failure: change
+matrix:
+  include:
+  - php: '5.6'
+  - php: '7.0'
+  - php: '7.1'
+  - php: '7.2'
+  - php: '7.3'
+before_install:
+script:
+- echo 'Tested'
+before_deploy:
+- git config --local user.name "artikus11"
+- git config --local user.email "artikus.sol@gmail.ru"
+- git tag "1.5.4"
+deploy:
+  provider: releases
+  api_key:
+    secure: PKe4Jt65bTuXLuKyrSEL8Si0w9nRpgcle4yL/t5mo6cgtLiI/bgR5NxSu4Wh1Tcj4oyXgDKthzhx/xgOXt82+3IyuCgtIlg9zSR7qtsiPWHIaNJWm49C7sFygwSNoPfHjeV8WGKz/3bEny45OKuDXMS4Y9COlFcaq1/xeHs2uqCaz2oYTfOSSwUP8afmzpxKjTuQrEtRPi7MhgqNAocWUBlTvuc4VTufnUngH97+BH4YOUqYtwlZo7srwbKwB37pyWNd8NuOCL3lLtrp240P62uBa8iLyQaGZ0yM9dRCMmofVQ5n+xwiLPXtQ85HgioFdvJWHd7YiocyM2iN2D2b05PQoWim+MESKvUEKBqcjqWYAfpyIwAWfZJZbF2DSas4FM0Z1qzkPVWTYrrp4gYmXytoqio86w73/+t1Cwbb2cI9an5oZ6Pm5iQZEYEus6scq+aMTj3OsTJfcWF8u2CJ72FQITV7gBIz5v4E7gMtYR8BjTjmh5vg292rs+pMw6MZ+kykfWHSRqucmbsZg90bnlxmdv3JQx4EnkyH5jKdiZNNc7fWCOIkie2+c5aJGau7YkjvKXsZueIHjQshePEAl2hyK/POFDRxc0H2wt3jcEzT90Ozy9WAlAOgLfsnrmEtc0VFL2WLqdc5Hoaa0VAEDPkglHy6OB5THZ+aUItthyc=
+  file: latest.zip
+  on:
+    repo: artikus11/art-decoration-shortcode
+after_deploy: release created

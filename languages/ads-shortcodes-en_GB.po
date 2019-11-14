@@ -1,0 +1,249 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-01-19 11:20+0400\n"
+"PO-Revision-Date: 2018-01-19 11:20+0400\n"
+"Last-Translator: Абрамович Артем | artabr.ru <artikus.sol@gmail.com>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;"
+"esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../art-decoration-shortcode.php:55
+#, php-format
+msgid "This plugin requires %s version %s or greater."
+msgstr "This plugin requires %s version %s or greater."
+
+#: ../art-decoration-shortcode.php:68
+#, php-format
+msgid ""
+"<div class=\"updated notice is-dismissible\"><p>Thank you for using the "
+"<strong>%s</strong> plugin.</p></div>"
+msgstr ""
+"<div class=\"updated notice is-dismissible\"><p>Thank you for using the "
+"<strong>%s</strong> plugin.</p></div>"
+
+#: ../inc/i18n/translations.php:10
+msgid "Decorations Shortcodes"
+msgstr "Decorations Shortcodes"
+
+#: ../inc/i18n/translations.php:11
+msgid "Infoboxes"
+msgstr "Infoboxes"
+
+#: ../inc/i18n/translations.php:12
+msgid "Warning"
+msgstr "Warning"
+
+#: ../inc/i18n/translations.php:13
+msgid "Warning Window"
+msgstr "Warning Window"
+
+#: ../inc/i18n/translations.php:14
+msgid "Advice"
+msgstr "Advice"
+
+#: ../inc/i18n/translations.php:15
+msgid "Advice Window"
+msgstr "Advice Window"
+
+#: ../inc/i18n/translations.php:16
+msgid "Note"
+msgstr "Note"
+
+#: ../inc/i18n/translations.php:17
+msgid "Note Window"
+msgstr "Note Window"
+
+#: ../inc/i18n/translations.php:18
+msgid "Info"
+msgstr "Info"
+
+#: ../inc/i18n/translations.php:19
+msgid "Info Window"
+msgstr "Info"
+
+#: ../inc/i18n/translations.php:20
+msgid "Custom box"
+msgstr "Custom box"
+
+#: ../inc/i18n/translations.php:21
+msgid "Custom box Window"
+msgstr "Custom box Window"
+
+#: ../inc/i18n/translations.php:22
+msgid "Add Text"
+msgstr "Add Text"
+
+#: ../inc/i18n/translations.php:23
+msgid "Add class"
+msgstr "Add class"
+
+#: ../inc/i18n/translations.php:24
+msgid "Title"
+msgstr "Title"
+
+#: ../inc/i18n/translations.php:25
+msgid "Buttons"
+msgstr "Buttons"
+
+#: ../inc/i18n/translations.php:26
+msgid "Buttons Window"
+msgstr "Buttons Window"
+
+#: ../inc/i18n/translations.php:27
+msgid "The inscription on the button"
+msgstr "The inscription on the button"
+
+#: ../inc/i18n/translations.php:28
+msgid "Add a link"
+msgstr "Add a link"
+
+#: ../inc/i18n/translations.php:29
+msgid "Add hover effect"
+msgstr "Add hover effect"
+
+#: ../inc/i18n/translations.php:30
+msgid "Add a icon"
+msgstr "Add a icon"
+
+#: ../inc/i18n/translations.php:31
+msgid "Open in a new window?"
+msgstr "Open in a new window?"
+
+#: ../inc/i18n/translations.php:32
+msgid "Columns"
+msgstr "Columns"
+
+#: ../inc/i18n/translations.php:33
+msgid "Column "
+msgstr "Column "
+
+#: ../inc/i18n/translations.php:34
+msgid "Here some text"
+msgstr "Here some text"
+
+#: ../inc/i18n/translations.php:35
+msgid "Row"
+msgstr "Row"
+
+#: ../inc/i18n/translations.php:36
+msgid "Part"
+msgstr "Part"
+
+#: ../inc/i18n/translations.php:37
+msgid "Part free"
+msgstr "Part free"
+
+#: ../inc/i18n/translations.php:38
+msgid "Dividers"
+msgstr "Dividers"
+
+#: ../inc/i18n/translations.php:39
+msgid "Simple Divider"
+msgstr "Simple Divider"
+
+#: ../inc/i18n/translations.php:40
+msgid "Gradient Divider"
+msgstr "Gradient Divider"
+
+#: ../inc/i18n/translations.php:41
+msgid "Divider points"
+msgstr "Divider points"
+
+#: ../inc/i18n/translations.php:42
+msgid "Divider dash"
+msgstr "Divider dash"
+
+#: ../inc/i18n/translations.php:43
+msgid "Divider zigzag"
+msgstr "Divider zigzag"
+
+#: ../inc/i18n/translations.php:44
+msgid "Spacer"
+msgstr "Spacer"
+
+#: ../inc/i18n/translations.php:45
+msgid "Spacer window"
+msgstr "Spacer window"
+
+#: ../inc/i18n/translations.php:46
+msgid "The size of the gap"
+msgstr "The size of the gap"
+
+#: ../inc/i18n/translations.php:47
+msgid "Quotes"
+msgstr "Quotes"
+
+#: ../inc/i18n/translations.php:48
+msgid "Left Quote"
+msgstr "Left Quote"
+
+#: ../inc/i18n/translations.php:49
+msgid "Left Quote Window"
+msgstr "Left Quote Window"
+
+#: ../inc/i18n/translations.php:50
+msgid "Right Quote"
+msgstr "Right Quote"
+
+#: ../inc/i18n/translations.php:51
+msgid "Right Quote Window"
+msgstr "Right Quote Window"
+
+#: ../inc/i18n/translations.php:52
+msgid "Center Quote"
+msgstr "Center Quote"
+
+#: ../inc/i18n/translations.php:53
+msgid "Center Quote Window"
+msgstr "Center Quote Window"
+
+#: ../inc/i18n/translations.php:54
+msgid "Center Quote Cite"
+msgstr "Center Quote Cite"
+
+#: ../inc/i18n/translations.php:55
+msgid "Dropcaps"
+msgstr "Dropcaps"
+
+#: ../inc/i18n/translations.php:56
+msgid "Color Box"
+msgstr "Color Box"
+
+#: ../inc/i18n/translations.php:57
+msgid "Color Box Window"
+msgstr "Color Box Window"
+
+#: ../inc/i18n/translations.php:58
+msgid "Background color"
+msgstr "Background color"
+
+#: ../inc/i18n/translations.php:59
+msgid "Text color"
+msgstr "Text color"
+
+#: ../inc/i18n/translations.php:60
+msgid "Border color"
+msgstr "Border color"
+
+#: ../inc/i18n/translations.php:61
+msgid "Blur Spoiler"
+msgstr "Blur Spoiler"
+
+#: ../inc/i18n/translations.php:62
+msgid "Blur Spoiler Window"
+msgstr "Blur Spoiler Window"
+
+#: ../inc/i18n/translations.php:63
+msgid "If required, select the color of the text"
+msgstr "If required, select the color of the text"

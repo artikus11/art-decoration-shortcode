@@ -1,0 +1,34 @@
+i.mce-i-dashicons {
+    line-height: 20px !important;
+    font-size: 20px;
+    font-family: dashicons !important;
+    margin-right: 4px;
+}
+
+.mce-menubtn i.mce-i-dashicons {
+    color: #ff8f00 !important;
+}
+
+.mce-menu-item i.dashicons-red {
+    color: #e40101 !important;
+    margin-right: 4px;
+}
+
+.mce-menu-item i.dashicons-blue {
+    color: #335bf5 !important;
+    margin-right: 4px;
+}
+
+.mce-menu-item i.dashicons-green {
+    color: #22b100 !important;
+    margin-right: 4px;
+}
+
+.mce-menu-item i.dashicons-yellow {
+    color: #e4b80e;
+    margin-right: 4px;
+}
+
+.mce-menu-item:hover i.mce-i-dashicons, .mce-menu-item.mce-selected i.mce-i-dashicons, .mce-menu-item:focus i.mce-i-dashicons {
+    color: white !important;
+}
