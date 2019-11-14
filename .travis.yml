@@ -17,8 +17,10 @@ matrix:
   - php: '7.2'
   - php: '7.3'
 before_install:
+
 script:
 - echo 'Tested'
+
 before_deploy:
 - git config --local user.name "artikus11"
 - git config --local user.email "artikus.sol@gmail.ru"
