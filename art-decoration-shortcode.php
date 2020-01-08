@@ -7,7 +7,7 @@
  * Plugin URI: https://wordpress.org/plugins/art-decoration-shortcode/
  * Description: Plugin shortcodes for text in articles. Contains: selection of text blocks with icons, buttons with hover effects and icons, columns, separator, text blocks with flow, letter, color text blocks.
  * Contributors: artabr
- * Version: 1.5.5
+ * Version: 1.5.6
  * Author: Artem Abramovich
  * Author URI: http://wpruse.ru/?p=570
  * Tags: shortcodes, shortcode, shortcodes list, buttons, alert shortcode, notification shortcode, column shortcodes, bloginfo, box, button, buttons, hover, column, fancy, hover buttons, flex's columns, multilingual, plugin, pullquote, responsive, responsive video, right-to-left, rss, service, services, short code, shortcode, shortcodes, siblings pages, slider, spoiler, drop cap
