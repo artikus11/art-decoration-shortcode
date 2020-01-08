@@ -219,7 +219,7 @@ class ADS_Shortcodes_Frontend {
 
 		$output = '<div class="ads-custom-box custom-box ' . $class . '" style="' . $color_border . $title_padding . '">';
 
-		$output .= apply_filters( 'ads_custom_box_title_filter_html', $title );
+		$output .= apply_filters( 'ads_custom_box_title_filter_html', $title, $atts['title'], $color_title );
 
 		$output .= '<div class="ads-custom-box-content">' . do_shortcode( $content ) . '</div>';
 

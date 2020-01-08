@@ -93,6 +93,12 @@ An answer to that question.
 * Fix bugs
 
 == Changelog ==
+= 1.5.5 =
+* Updated filter ads_custom_box_title_filter_html
+
+= 1.5.4 =
+* Updated code
+
 = 1.5.3 =
 * Updated code
 * Update style
